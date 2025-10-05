@@ -1,4 +1,4 @@
-# EDA-stress-coping-mechanisms
+# EDA stress coping mechanisms
 In this simple eda project, I tried to analyse how students cope with stress. 
 
 ## Key Questions : 
